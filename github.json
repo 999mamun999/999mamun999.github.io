@@ -1,0 +1,62 @@
+{
+ "user": {
+  "avatar_url": "https://avatars.githubusercontent.com/u/123248700?v=4",
+  "public_repos": 3,
+  "followers": 2
+ },
+ "repos": [
+  {
+   "name": "PetBot",
+   "html_url": "https://github.com/999mamun999/PetBot",
+   "description": "PetBot - a tiny Bangla-speaking desk pet robot (ESP8266 + OLED + MPU6050). Designed & Developed by Al-Mamun",
+   "language": "C",
+   "fork": false,
+   "stargazers_count": 0,
+   "forks_count": 0,
+   "pushed_at": "2026-11-22T07:34:44Z"
+  }
+ ],
+ "commits": {
+  "PetBot": [
+   {
+    "html_url": "https://github.com/999mamun999/PetBot/commit/3f256fc47024836ffe97bf78cb4983c459a0317d",
+    "commit": {
+     "message": "Clear pixel fonts, shortcut guide, WiFi start-up animation, family birthdays",
+     "author": {
+      "date": "2026-11-22T07:34:41Z"
+     }
+    }
+   },
+   {
+    "html_url": "https://github.com/999mamun999/PetBot/commit/e00eb36b36214bf5c3a4fc48de48ccf0a44a0ada",
+    "commit": {
+     "message": "Add sports, pixel-art animations, birthdays, countdowns, forecast, backup",
+     "author": {
+      "date": "2026-11-22T06:50:31Z"
+     }
+    }
+   },
+   {
+    "html_url": "https://github.com/999mamun999/PetBot/commit/40422e37691986e6ef5c5c6a03a2d951be33273d",
+    "commit": {
+     "message": "Add 2-tap menu, animations, pet care, Telegram yes/no, night mode, gestures, login page",
+     "author": {
+      "date": "2026-11-21T17:28:31Z"
+     }
+    }
+   },
+   {
+    "html_url": "https://github.com/999mamun999/PetBot/commit/aeb932cc506f0d2c86c1fa6d14be4145195a9a66",
+    "commit": {
+     "message": "PetBot: a tiny Bangla-speaking desk pet robot (ESP8266)",
+     "author": {
+      "date": "2026-11-20T15:19:06Z"
+     }
+    }
+   }
+  ]
+ },
+ "commitCount": {
+  "PetBot": 4
+ }
+}

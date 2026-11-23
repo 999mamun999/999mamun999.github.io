@@ -1,0 +1,80 @@
+{
+  "_help": "Edit this file to change the website. Text, projects, skills and links all come from here. GitHub data (repos, stars, latest commits) updates by itself.",
+  "github": "999mamun999",
+  "name": "Al-Mamun Sourov",
+  "short": "Al-Mamun",
+  "kicker": "WEB DEVELOPER · IoT MAKER",
+  "roles": [
+    "web developer",
+    "IoT & robot maker",
+    "co-founder of DŌTED",
+    "creator of PetBot 🤖"
+  ],
+  "lead": "Developer & co-founder of <b>DŌTED</b>, Bangladesh's marketplace for diecast collectors — and creator of <b>PetBot</b>, a tiny Bangla-speaking desk robot.",
+  "about": [
+    "I build things for the web and for the real world. On the web I design and develop online stores and marketplaces with WordPress, WooCommerce and custom code. On my desk I build small robots and IoT gadgets with ESP8266 and Arduino.",
+    "I love projects that people actually use every day — a marketplace where collectors buy, sell and bid, or a little robot that greets you in Bangla, sings, plays games and reminds you to pray."
+  ],
+  "stats": [
+    { "value": 2, "label": "live products" },
+    { "value": 11, "label": "animations on PetBot" },
+    { "value": 28, "label": "PetBot moods" },
+    { "github": "commits", "repo": "PetBot", "label": "commits to PetBot" }
+  ],
+  "projects": [
+    {
+      "name": "DŌTED",
+      "type": "web",
+      "role": "Developer & Co-founder",
+      "roleColor": "gold",
+      "image": "https://dotedbd.shop/wp-content/themes/doted/assets/img/og-image.jpg",
+      "imageStyle": "fit",
+      "text": "Bangladesh's marketplace built for diecast collectors — buy, sell, bid and collect authentic MINI GT, Hot Wheels and more.",
+      "points": [
+        "Custom WordPress theme with its own design",
+        "WooCommerce store: cart, checkout, product variants",
+        "Multi-seller marketplace, auctions & pre-orders",
+        "Hosting, domain, SSL and deployment"
+      ],
+      "tags": ["WordPress", "WooCommerce", "Custom theme", "CSS", "JavaScript", "Marketplace", "Auctions", "Hostinger"],
+      "link": { "text": "Visit dotedbd.shop ↗", "url": "https://dotedbd.shop" }
+    },
+    {
+      "name": "PetBot 🤖",
+      "type": "iot",
+      "role": "Creator · Open source",
+      "roleColor": "blue",
+      "repo": "PetBot",
+      "image": "https://raw.githubusercontent.com/999mamun999/PetBot/main/docs/images/scene_village.png",
+      "imageStyle": "pix",
+      "demo": true,
+      "text": "A tiny desk pet robot that speaks Bangla — EMO-style eyes, 28 moods, waving servo arms, songs with karaoke lyrics, 8 games, 11 pixel-art animations and a pet you have to feed.",
+      "points": [
+        "Bangla & Hijri calendar, prayer times, Sehri / Iftar alerts",
+        "Phone web app + Telegram bot control from anywhere",
+        "Plays football, cricket and flies kites by itself",
+        "Birthdays, countdowns, tomorrow's weather, WiFi (OTA) updates"
+      ],
+      "tags": ["ESP8266", "C++", "Arduino", "OLED", "MPU6050", "Telegram Bot", "Pixel art", "HTML/CSS/JS"],
+      "link": { "text": "View on GitHub ↗", "url": "https://github.com/999mamun999/PetBot" }
+    }
+  ],
+  "hideRepos": ["999mamun999", "999mamun999.github.io"],
+  "skills": [
+    { "title": "🌐 Web", "items": ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "WordPress", "WooCommerce"] },
+    { "title": "🔧 Hardware & IoT", "items": ["ESP8266", "Arduino / C++", "Sensors", "OLED displays", "Servos", "Telegram Bot API"] },
+    { "title": "🧰 Tools", "items": ["Git & GitHub", "VS Code", "Arduino IDE", "Hostinger", "Domains & SSL", "Pixel art"] }
+  ],
+  "contact": {
+    "title": "Let's talk",
+    "text": "Have a project, a website or a gadget idea? Send me a message.",
+    "email": "almamunams47@gmail.com",
+    "telegram": "AlmamunSourov",
+    "links": [
+      { "text": "Telegram", "icon": "✈️", "url": "https://t.me/AlmamunSourov" },
+      { "text": "Instagram", "icon": "📸", "url": "https://www.instagram.com/999mamun999" },
+      { "text": "Facebook", "icon": "📘", "url": "https://www.facebook.com/999mamun999" },
+      { "text": "GitHub", "icon": "🐙", "url": "https://github.com/999mamun999" }
+    ]
+  }
+}
